@@ -1,3 +1,15 @@
+MogoOntaKalaiyo
+---------------
+
+The datasets we have kept at :
+/home/DATA/j...../Datasets
+
+Models
+/home/DATA/j...../Models
+
+
+
+
 # RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching
 This repository contains the source code for our paper:
 
